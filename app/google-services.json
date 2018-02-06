@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "92759100819",
+    "firebase_url": "https://ride-sharing-app-7f6f3.firebaseio.com",
+    "project_id": "ride-sharing-app-7f6f3",
+    "storage_bucket": "ride-sharing-app-7f6f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92759100819:android:0e937525c4ed8fbe",
+        "android_client_info": {
+          "package_name": "com.romano.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92759100819-jlqo99ispl6qoe5p25ufobe3h56or9bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2kMdxCB7lzO7OrhpxLciwm3DW9HTMgTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
